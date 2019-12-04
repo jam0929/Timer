@@ -30,4 +30,11 @@ var Timer = function(config) {
         
         console.log(a);
     }
+    
+    function codeGuruTestB() {
+        var a = 123;
+        var b = 456;
+        
+        console.log(b);
+    }
 };

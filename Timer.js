@@ -23,4 +23,11 @@ var Timer = function(config) {
 
         return hours + ":" + minutes + ":" + seconds;
     }
+    
+    function codeGuruTest() {
+        var a = 123;
+        var b = 456;
+        
+        console.log(a);
+    }
 };
